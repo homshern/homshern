@@ -14,4 +14,4 @@ let homshern = {
 
 and I keep learning and calling push() ;)
 
->I'm a student and freelancer who keep professional with an okay workload, if you need me just say hello here: homs.hern.dev@gmail.com or hi@homshern.com
+>I'm a student and freelancer who keep professional with an okay workload, if you need me just say hello here: hi@homshern.com
