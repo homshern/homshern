@@ -14,4 +14,4 @@ let homshern = {
 
 and I keep learning and calling push() ;)
 
->I'm self-employed and keep professional with an okay workload, if you need cooperation just contact here hi@homshern.com
+I'm self-employed and keep professional with an okay workload, if you need cooperation just contact me at hi@homshern.com
