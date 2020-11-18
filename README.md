@@ -8,7 +8,7 @@ let homshern = {
     "frontend": ["HTML", "CSS", "Javascript(vanilla and ESNext)"],
     "backend": ["Nodejs", "ExpressJS", "Laraval", ".NET Core"],
     "Database": ["MySQL", "MSSQL Server", "MongoDB"],
-    "Drilling now": ["Java(Android app and Spring)", "Swift(iOS)", "Python(Flask)", "Redis"]
+    "Drilling now": ["Java", "Swift", "Python", "Redis"]
 }
 ```
 
