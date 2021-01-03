@@ -1,6 +1,6 @@
 # Wave to me cuz I need friends 👋
 
-Hola! This is Homs and I'm hungry.
+Hola! This is Homs and I'm cute.
 
 ```javascript
 let homshern = {
