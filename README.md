@@ -8,10 +8,10 @@ let homshern = {
     "frontend": ["HTML", "CSS", "Javascript(vanilla and ESNext)"],
     "backend": ["Nodejs", "ExpressJS", "Laraval", ".NET Core"],
     "Database": ["MySQL", "MSSQL Server", "MongoDB"],
-    "Drilling now": ["Java", "Swift", "Python", "Redis"]
+    "Drilling now": ["Java", "Python", "Redis"]
 }
 ```
 
 and I keep learning and calling push() ;)
 
-I'm self-employed and keep professional with an okay workload, if you need cooperation just contact me at hi@homshern.com
+I'm self-employed and keep professional, if you need just contact me here hi@homshern.com
