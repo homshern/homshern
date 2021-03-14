@@ -1,15 +1,12 @@
-Hola! This is Homs and I'm cute.
+Hola! This is Homs.\
+I focus on frontend and backend developing, and keep learning new things.
 
-```javascript
-let homshern = {
-    "languages": ["C#", "PHP"],
-    "frontend": ["HTML", "CSS", "Javascript(vanilla and ESNext)"],
-    "backend": ["Nodejs", "ExpressJS", "Laraval", ".NET Core"],
-    "Database": ["MySQL", "MSSQL Server", "MongoDB"],
-    "Drilling now": ["Java", "Python", "Redis"]
-}
-```
-
-and I keep learning and calling push() ;)
+|key|value|
+|-|-|
+|languages|["C#", "PHP", "Java"]|
+|frontend|["HTML", "CSS", "Javascript(vanilla and ESNext)"]|
+|backend|["Nodejs", "ExpressJS", "Laraval", ".NET Core"]|
+|Database|["MySQL", "MSSQL Server", "MongoDB"]|
+|Drilling now|[, "Python", "Redis"]|
 
 I'm self-employed and keep professional, if you need me just contact me here hi@homshern.com
