@@ -11,5 +11,3 @@
 |IDE|![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white)|
 
 Feel free to contact me with hi@homshern.com / homs.hern.dev@gmail.com
-
-<img width="250" src="banner.gif">
