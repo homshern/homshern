@@ -1,6 +1,7 @@
 ## I'm Homs
+<img src="profile.gif" />
 
-`Don't give up. I know you almost but don't.`
+`I know you want to be alone but scared of being lonely. Don't be. It's how life goes.`
 
 |||
 |-|-|
