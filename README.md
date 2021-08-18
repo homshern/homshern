@@ -1,4 +1,4 @@
-## I'm Homs
+## I'm Homs and focus on frontend development
 <img src="profile.gif" />
 
 `I know you want to be alone but scared of being lonely. Don't be. It's how life goes.`
