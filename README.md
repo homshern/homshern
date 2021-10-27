@@ -10,5 +10,5 @@
 |Database|![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white)|
 |IDE|![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)|
 
-Focus on frontend now\
+My name is  and focus on frontend now\
 Feel free to contact me with hi@homshern.com / homs.hern.dev@gmail.com
