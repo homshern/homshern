@@ -1,4 +1,3 @@
-## I'm Homs and focus on frontend development
 <img src="profile.gif" />
 
 `You have to be happy about what you are doing, or you just destroy your mind day by day.`
