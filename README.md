@@ -2,11 +2,11 @@
 font-family:'Helvetica';
 max-width:530px;
 ">
-<img src="profile.gif" />
+<img src="banner.gif" />
 <p style="
 font-weight:bold;
 padding-bottom:20px;
-">You have to be happy about what you are doing, or you just destroy your mind day by day.</p>
+">Sometime we are confused about life, but aleast we survived the hard days.</p>
 </div>
 
 
@@ -19,10 +19,12 @@ padding-bottom:20px;
 |IDE|![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)|
 
 <div style="
+background-image: url(banner.gif);
 border:1px solid;
 border-radius:5px;
-padding:20px;
-max-width:480px;
+max-width:500px;
+text-align: center;
+padding:10px;
 ">
 <p>My name is <b><u>Homs</u></b> and focus on frontend now</p>
 <p>Feel free to contact me with <u>homs.hern.dev[at]gmail.com</u></p>
