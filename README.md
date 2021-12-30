@@ -21,7 +21,7 @@ padding-bottom:20px;
 
 <div style="
 cursor: default;
-background-image: url(banner.gif);
+background-image: url(footer.gif);
 border:1px solid;
 border-radius:5px;
 max-width:570px;
