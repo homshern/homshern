@@ -2,6 +2,7 @@
 font-family:'Helvetica';
 max-width:590px;
 cursor:default;
+user-select: none;
 ">
 <img src="banner.gif" />
 <p style="
@@ -28,7 +29,7 @@ max-width:570px;
 text-align: center;
 padding:10px;
 ">
-<p>My name is <b><u>Homs</u></b> and focus on frontend now</p>
+<p>This is me <b><u>Homs</u></b> and focus on <code>frontend</code> now</p>
 <p>Feel free to contact me with <u>homs.hern.dev[at]gmail.com</u></p>
 </div>
 
