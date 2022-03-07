@@ -15,10 +15,10 @@ user-select: none;
 ### About Me
 
 🌱 &nbsp; This is me Homs\
-💻 &nbsp; I focus on web development especially frontend now\
+💻 &nbsp; I focus on web development especially frontend\
 💼 &nbsp; I'm a frontend developer now and have 3yrs of working experience\
 💪 &nbsp; Drilling Android/iOS app developing in my free time\
-🔗 &nbsp; Feel free to connect with me via e-mail
+🔗 &nbsp; Feel free to connect me via e-mail
 
 ### Tech stack
 
