@@ -12,7 +12,13 @@ user-select: none;
 ![github honshern](https://komarev.com/ghpvc/?username=homshern&style=for-the-badge&label=PROFILE+VIEWS&color=gray)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:homs.hern.dev@gmail.com)
 
-🌱 &nbsp; This is me Homs
+### About Me
+
+🌱 &nbsp; This is me Homs\
+💻 &nbsp; I focus on web development especially frontend now\
+💼 &nbsp; I'm a frontend developer now and have 3yrs of working experience\
+💪 &nbsp; Drilling Android/iOS app developing in my free time\
+🔗 &nbsp; Feel free to connect with me via e-mail
 
 ### Tech stack
 
