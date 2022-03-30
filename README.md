@@ -20,6 +20,13 @@ user-select: none;
 💪 &nbsp; Drilling Android/iOS app developing in my free time\
 🔗 &nbsp; Feel free to connect me via e-mail
 
+### Trivia
+😨 &nbsp; I'm scared of mascot and bubbles\
+🚀 &nbsp; Started coding since I was 15 and still learning\
+👨‍💻 &nbsp; The first language I started is C#\
+👨‍💻 &nbsp; Once produced a desktop management system with SQL (super long time ago...)\
+🗄️ &nbsp; I also specialize in database design, query, scripting and optimizating
+
 ### Tech stack
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp)
