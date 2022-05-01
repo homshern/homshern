@@ -12,7 +12,7 @@ padding-bottom:20px;
 </div>
 
 
-|||
+||[![github honshern](https://img.shields.io/github/followers/homshern?color=gray)](https://github.com/homshern) ![github honshern](https://komarev.com/ghpvc/?username=homshern&style=label=PROFILE+VIEWS&color=gray)|
 |-|-|
 |Languages|![C#](https://img.shields.io/badge/c%23-%23239120.svg?logo=c-sharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?logo=swift&logoColor=white)|
 |Frontend|![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white)|
@@ -31,4 +31,5 @@ padding:10px;
 ">
 <p>This is me <b><u>Homs</u></b> and focus on <code>frontend</code> now</p>
 <p>Feel free to contact me with <u>homs.hern.dev[at]gmail.com</u></p>
+<a href="mailto:homs.hern.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
 </div>
