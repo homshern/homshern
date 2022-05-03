@@ -1,15 +1,8 @@
-<div style="
-font-family:'Helvetica';
-max-width:590px;
-cursor:default;
-user-select: none;
-">
 <img src="banner.gif" />
 <p style="
 font-weight:bold;
 padding-bottom:20px;
 ">I know you feel lonely, but you are strong to fight alone.</p>
-</div>
 
 
 ||[![github honshern](https://img.shields.io/github/followers/homshern?color=gray)](https://github.com/homshern) ![github honshern](https://komarev.com/ghpvc/?username=homshern&style=label=PROFILE+VIEWS&color=gray)|
@@ -20,16 +13,7 @@ padding-bottom:20px;
 |Database|![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white)|
 |IDE|![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)|
 
-<div style="
-cursor: default;
-background-image: url(footer.gif);
-border:1px solid;
-border-radius:5px;
-max-width:570px;
-text-align: center;
-padding:10px;
-">
+
 <p>This is me <b><u>Homs</u></b> and focus on <code>frontend</code> now</p>
 <p>Feel free to contact me with <u>homs.hern.dev[at]gmail.com</u></p>
 <a href="mailto:homs.hern.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
-</div>
