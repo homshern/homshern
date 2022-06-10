@@ -1,12 +1,12 @@
-<img src="profile.gif" />
 <table>
 <tr>
     <td colspan="2">
-This is me <b><u>Homs</u></b> and focus on <code>frontend</code> now
+        <img src="profile.gif" />
+I'm <b><u>Homs</u></b> and focus on <code>Frontend Developing</code> Currently.
 
 Feel free to contact me with <u>homs.hern.dev [at] gmail.com</u>
 \
-<img src="https://img.shields.io/github/followers/homshern?color=gray" />&nbsp;
+        <img src="https://img.shields.io/github/followers/homshern?color=gray" />&nbsp;
         <img src="https://komarev.com/ghpvc/?username=homshern&label=Views&color=gray" />
     </td>
 </tr>
