@@ -1,15 +1,13 @@
-<img src="main.gif" />
-
-I know you feel lonely, but you are strong to fight alone.
-
+<img src="profile.gif" />
 <table>
 <tr>
     <td colspan="2">
-        <img src="https://img.shields.io/github/followers/homshern?color=gray" />&nbsp;
-        <img src="https://komarev.com/ghpvc/?username=homshern&label=Views&color=gray" />
-        <p>This is me <b><u>Homs</u></b> and focus on <code>frontend</code> now
+This is me <b><u>Homs</u></b> and focus on <code>frontend</code> now
 
-Feel free to contact me with <u>homs.hern.dev [at] gmail.com</u></p>
+Feel free to contact me with <u>homs.hern.dev [at] gmail.com</u>
+\
+<img src="https://img.shields.io/github/followers/homshern?color=gray" />&nbsp;
+        <img src="https://komarev.com/ghpvc/?username=homshern&label=Views&color=gray" />
     </td>
 </tr>
 <tr>
@@ -41,7 +39,6 @@ Feel free to contact me with <u>homs.hern.dev [at] gmail.com</u></p>
         <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white" />
         <img src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white" />
         <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=logo=spring&logoColor=white" />
-        <img src="" />
     </td>
 </tr>
 <tr>
